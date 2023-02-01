@@ -1,0 +1,16 @@
+{
+    "manifest_version" : 3,
+    "name":"Anyfile Downloader",
+    "version":"0.1.5",
+    "description":"Download any file with much ease",
+    "permissions":["storage"],  
+    "action":{
+        "default_title":"Anyfile Download",
+        "default_popup":"popup.html"
+    },
+    "icons" : {
+        "16" : "/images/imagedownload_16x16.png",
+        "48" : "/images/imagedownload_48x48.png",
+        "128" : "/images/imagedownload_128x128.png"
+    }
+}
